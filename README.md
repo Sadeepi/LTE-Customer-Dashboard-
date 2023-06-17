@@ -1,12 +1,8 @@
 # LTE-Customer-Dashboard-
 ##
-First Page
-![dashboard_LTE1](https://github.com/Sadeepi/LTE-Customer-Dashboard-/assets/86165230/696385b1-80fb-4af0-9a06-de62db3bb320)
 
-</br>
-Second Page
+![Capture46](https://github.com/Sadeepi/LTE-Customer-Dashboard-/assets/86165230/ad45e6cc-7190-418f-8e50-1834dc4c60f2)
 
-![dashboard _lte2](https://github.com/Sadeepi/LTE-Customer-Dashboard-/assets/86165230/35ada538-1cf6-4710-bfba-830fc2fd5675)
 
 
 
