@@ -2,8 +2,8 @@
 ##
 
 
+![Capture46](https://github.com/Sadeepi/LTE-Customer-Dashboard-/assets/86165230/6c647946-0abd-4a42-bb10-95577169feaa)
 
-![Capture46](https://github.com/Sadeepi/LTE-Customer-Dashboard-/assets/86165230/f1986b96-185a-4b86-958a-f53b5a0b5f62)
 
 
 
